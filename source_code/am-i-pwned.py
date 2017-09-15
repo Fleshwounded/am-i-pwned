@@ -20,13 +20,13 @@ import sys
 
 def prnt (option, message):
     if option == 0:
-        print ( "\033[94mSearching\033[0m %s\n" % message )
+        print ( "\n\033[94mSearching\033[0m %s\n" % message )
     elif option == 1 :
-        print ( "\033[94m>\033[0m %s \033[92m is safe!\033[0m\n" % message )
+        print ( "\n\033[94m>\033[0m %s \033[92m is safe!\033[0m" % message )
     elif option == 2 :
-        print ( "\033[94m>\033[0m %s \033[93m is leaked!\033[0m\n" % message )
+        print ( "\n\033[94m>\033[0m %s \033[93m is leaked!\033[0m" % message )
     elif option == 3 :
-        print ( "\33[93m===>\033[0m %s\n" % message )
+        print ( "\33[93m===>\033[0m %s" % message )
 
 def search_haveibeenpwned ( accounts ):
 
@@ -87,8 +87,6 @@ if __name__ == "__main__" :
 
     accounts = [x.strip() for x in content]
 
-    print ("\n")
     search_haveibeenpwned(accounts)
-    print ("\n\n")
     search_hackedemails(accounts)
 
