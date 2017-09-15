@@ -29,6 +29,9 @@ Example file:
 Locate the script:
 
         $ cd /$HOME/path/to/script
+        
+Run the script:
+
         $ ./am-i-pwned.py /path/to/emails
 
 <h3> Author </h3>
