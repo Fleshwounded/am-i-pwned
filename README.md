@@ -1,5 +1,8 @@
 <h1> am-i-pwned </h1>
-Python script that takes a file of e-mails and searches varius engines to tell you if it has been leaked online.
+Check if a given e-mail list is leaked online.
+Uses the APIs from :
+https://haveibeenpwned.com
+https://hacked-emails.com
 
 <h3> Installation </h3>
 
