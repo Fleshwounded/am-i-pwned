@@ -32,6 +32,6 @@ Locate the script:
         $ ./am-i-pwned.py /path/to/emails
 
 <h3> Author </h3>
-<a href="https://unix121.github.io">Stavros Grigoriou (unix121)</a>
-<a href="https://github.com/unix121">GitHub</a>
-E-mail : unix121@protonmail.com
+<li><a href="https://unix121.github.io">Stavros Grigoriou (unix121)</a></li>
+<li><a href="https://github.com/unix121">GitHub</a></li>
+<li>E-mail : unix121@protonmail.com</li>
