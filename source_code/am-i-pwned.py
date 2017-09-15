@@ -87,6 +87,8 @@ if __name__ == "__main__" :
 
     accounts = [x.strip() for x in content]
 
+    print ("\n")
     search_haveibeenpwned(accounts)
+    print ("\n\n")
     search_hackedemails(accounts)
 
