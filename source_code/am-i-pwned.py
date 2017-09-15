@@ -2,13 +2,13 @@
 
 #   Author      :   Stavros Grigoriou
 #   GitHub      :   https://github.com/unix121
-#   Date        :   25 September 2017
-#   Last Update :   25 September 2017
+#   Date        :   15 September 2017
+#   Last Update :   15 September 2017
 #   Description :   Python script that uses the APIs of:
 #                   https://haveibeenpwned.com
 #                   https://hacked-emails.com
 #                   To tell you which emails from a given list of
-#                   emails have been leaked
+#                   emails have been leaked online
 #
 #   Usage       :   ./am-i-pwned.py /path/to/email/file
 
