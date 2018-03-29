@@ -45,3 +45,7 @@ Run the script:
 <li><a href="https://unix121.github.io">Stavros Grigoriou (unix121)</a></li>
 <li><a href="https://github.com/unix121">GitHub</a></li>
 <li>E-mail : unix121@protonmail.com</li>
+
+
+<h3>Support this project</h3>
+Patreon: https://www.patreon.com/unix121
